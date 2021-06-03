@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for regulating and advancing the woollen manufacture and to make it more profitable to the merchant and maker, than formerly. Humbly offered, to the honourable, Knights, citizens, and burgesses in Parliament assembled: by one who hath had 30 years experience in that trade, and in importing of wool from Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91077</idno><idno type="EEBO-CITATION">99895853</idno>
+  <idno type="VID">153497</idno>
+  <idno type="EEBO-PROQUEST">2240917820</idno>
+  
+            <idno type="STC">Wing P3696</idno>
+            <idno type="STC">ESTC R227654</idno>
+            <idno type="PROQUEST">99895853</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895853e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for regulating and advancing the woollen manufacture and to make it more profitable to the merchant and maker, than formerly. Humbly offered, to the honourable, Knights, citizens, and burgesses in Parliament assembled: by one who hath had 30 years experience in that trade, and in importing of wool from Ireland.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  Law and legislation --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153497:1"/>
+            <pb facs="tcp:153497:2"/>
+            <pb facs="tcp:153497:2"/>
+            <p>A PROPOSAL FOR Regulating and Advancing THE <hi>Woollen Manufacture,</hi> AND TO Make it more Profitable TO THE <hi>Merchant</hi> and <hi>Maker,</hi> Than formerly.</p>
+            <p>Humbly offered, to the Honourable, <hi>Knights, Citizens,</hi> and <hi>Bur<g ref="char:EOLhyphen"/>gesses</hi> in Parliament Assembled:</p>
+            <p>By One who hath had 30 Years Experience in that Trade, and in Im<g ref="char:EOLhyphen"/>porting of Wool from <hi>Ireland.</hi>
+            </p>
+            <p>Printed in the Year 1698.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:153497:3"/>
+            <pb n="3" facs="tcp:153497:3"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <hi>I.</hi> A Description of the Manufacture in General.</item>
+               <item>
+                  <hi>II.</hi> The Occasion of the supposed De<g ref="char:EOLhyphen"/>cay of Trade.</item>
+               <item>
+                  <hi>III.</hi> Sundry Regulations which will make it profitable both to Merchant and Maker.</item>
+               <item>
+                  <hi>IV.</hi> The Way to prevent the Exportati<g ref="char:EOLhyphen"/>on of Wooll from <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> to foreign Parts.</item>
+               <item>
+                  <hi>V.</hi> How much in the Pound weight the Cloths can be made and afforded cheaper in <hi>Ireland</hi> than in <hi>England,</hi> if they had our Experience in Trade.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>I.</hi> How to settle the Trade, that <hi>Ireland</hi> may not injure <hi>England,</hi> and yet export their Cloths without Prohibition.</item>
+            </list>
+         </div>
+         <div type="list_of_woollens">
+            <pb n="4" facs="tcp:153497:4"/>
+            <head>A <hi>Description</hi> of the Woollen Manufacture under these five Heads, <hi>viz.</hi>
+            </head>
+            <list>
+               <item>Broadcloths,</item>
+               <item>Kersies,</item>
+               <item>Perpetuana'es,</item>
+               <item>Bays,</item>
+               <item>Stuffs.</item>
+            </list>
+            <p>
+               <hi>Broadcloths</hi> are white, dyed, or mixt; white and dyed are most Exported, mixt are about half Exported, and half worn at home.</p>
+            <p>
+               <hi>Kersies,</hi> as many Exported as worn at home.</p>
+            <p>
+               <hi>Perpetuana'es</hi> or <hi>Serges</hi> are white dyed and mixt, white and dyed are most exported; mixt, about five Exported and one worn at home.</p>
+            <p>
+               <hi>Bays, Cottons,</hi> and <hi>Pennystones</hi> are white and dyed, and most Exported.</p>
+            <p>
+               <hi>Stuffs</hi> are innumerable for sorts, and many Exported.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:153497:4"/>
+            <head>The Occasion of the supposed decay of Trade.</head>
+            <p>THE multitude of hands in the Manufacture produce such vast quantities of Goods, as glut all foreign Markets, and the Makers dealing beyond their Stocks do force their Cloths upon the Merchant fa<g ref="char:EOLhyphen"/>ster than they can be sold, by which means the Merchant beats down the price.</p>
+            <p>Our Wooll is also exported both from <hi>England</hi> and <hi>Ireland,</hi> without which o<g ref="char:EOLhyphen"/>ther Countries cannot make a good piece of Cloth, but with one Pack of ours they work up four Packs of their own, and do help to fill up foreign Markets.</p>
+            <p>The Merchant drawing Bills at disad<g ref="char:EOLhyphen"/>vantageous Exchange before his Goods are sold, the Factor to honour the Bills, sells the Cloth at any price, by which means our Drapery is sold in foreign Mar<g ref="char:EOLhyphen"/>kets for little Profit, and in ours many times for none at all, so that we drive a great Trade with little advantage.</p>
+            <p>The deceitfull making of our Broad Cloths, Kersies and Stuffs will infallibly
+<pb n="6" facs="tcp:153497:5"/>ruin the Trade if not prevented. If the Merchant abates 6 <hi>d.</hi> on a Piece of long Ell, against the next Market the Maker hath left out a Beere of his Pieces, which is so many Threads of the Warp, and ren<g ref="char:EOLhyphen"/>ders the Piece one or two Shillings worse, and the Merchant many times perceives it not presently, but sends them after for the same sorts.</p>
+            <p>Another remarkable occasion of the Discredit of our Drapery, is our not half scowring them out of the Oyl or Grease, by which means the Colour looks dull, and they are not half milled. But the greatest mischief, and that which will in<g ref="char:EOLhyphen"/>follibly ruin all, if not prevented, is the Scea, being a strong stick with Tenter<g ref="char:EOLhyphen"/>hooks, to which they fasten one end of the Serge, and the other end they fasten in the Rack or Tenter, and 3 or 4 men with all their might stretch the Serge while it is wet, and so stretcht fix it in the Rack, by which means they either break the heart of the Cloth or Serge, and make it often longer than it was in the Loom: but if the heart be not broken, it will shrink so when it comes into a Gar<g ref="char:EOLhyphen"/>ment and takes wet, as will absolutely render the Garment useless.</p>
+            <div type="part">
+               <pb n="7" facs="tcp:153497:5"/>
+               <head>For Remedy of all these Abuses in the Trade, and to make it profitable to the Nation in General.</head>
+               <p>THE Merchants are so used to the Scea, that an Act of Parliament alone will not regulate it, unless some small Fine be imposed, and an Inspector appointed for every County, to look af<g ref="char:EOLhyphen"/>ter the deceitfull making and dressing of the said Cloths; and to keep up the Stan<g ref="char:EOLhyphen"/>dard in making, every long Ell Man, and such others as shall be thought fit, may be enjoyn'd to put the number of the Warp of his Cloth in the Forrel, this will keep up the price when they keep up the goodness, and the Cloths will sell by the number without seeing them, and there may be a little Fine upon a miss Number, and the Inspector should be to see such Cloths number'd as are appointed to be so, and to look after the Dressing, that a Serge be not stretch'd but by one Man, and that they are perfectly washed out of the Grease, for which he may be allowed six Pence on a Pack, to be paid for him by the Exportors at the Custom-house and at the Clerks to the Carryers or Wagons, who shall be accountable for it.</p>
+               <pb n="8" facs="tcp:153497:6"/>
+               <p> The next main Point is to prevent glutting the Markets abroad; and if we do this, our Goods will yield our own Price there.</p>
+               <p>For Remedy hereof, let us follow the good example of <hi>Norwich,</hi> and prohibit all Makers from weaving any Piece of Cloth, Bays, Serge, or Stuff, from the tenth Day of <hi>July</hi> to the twentieth Day of <hi>August,</hi> which shall be in every Year; this may also be the work of the said In<g ref="char:EOLhyphen"/>spector. This being observed, the Weavers will be helpfull in saving the Hay and Corn Harvest, and the glut of Goods will be the better consumed abroad, so that a quick Trade will follow all Winter, and the Weaver will be better able to live in time of Harvest than in Winter, for now they often want work in Winter, which this will prevent.</p>
+            </div>
+            <div type="part">
+               <head>Another way to prevent glutting the Markets abroad, is to consume what we can of the Manufacture at home without preju<g ref="char:EOLhyphen"/>dice.</head>
+               <p>And first, 'tis observable, that we have no Wooll from <hi>Spain</hi> in any other than wollen Pack Cloths.</p>
+               <pb n="9" facs="tcp:153497:6"/>
+               <p> If no Wooll be Imported from <hi>Ireland,</hi> or carried to any Market or place of Sale in <hi>England</hi> in any other than Wollen or Linsey woolsey Pack-Cloths upon Forfei<g ref="char:EOLhyphen"/>ture. If no Woollen Manufacture be pack'd or sent abroad in any other than Woollen or Linsey-woolsey Pack-Cloths, these will be as strong and as cheap as those now used, and will consume above thirty thousand Packs of Wooll every Year, and prevent so much Goods from coming into foreign Markets, by which means, though we send less Goods abroad, we shall have better and speedier Returns than now; the looking after this also may be the work of the same Inspector. Our Drapery will then sell at any Price, but if the Markets are still cram'd with Goods they will not sell at all, but as hunger is the best sauce, so it will procure any Price, for when our Vessels are stopt, as they are often by the Frost abroad; as soon as they come, the People take the Goods at what price the Merchant puts upon them.</p>
+               <p>
+                  <hi>Another way to improve our Manufacture, is effectually to hinder the Exportation of Wooll.</hi>
+               </p>
+               <pb n="10" facs="tcp:153497:7"/>
+               <p> For preventing of which, from <hi>England</hi> and <hi>Ireland,</hi> let there be provided and secu<g ref="char:EOLhyphen"/>red to the Informers a Reward of fifty Pounds for every Person which on their Discovery shall be convicted of being aiding or asisting in the Exportation of Wooll; and one hundred Pounds for each Merchant, Imployer or Master of a Vessel, which Mo<g ref="char:EOLhyphen"/>ney may be paid them out of the Exche<g ref="char:EOLhyphen"/>quer, and may be levied again upon the Persons convict, who shall also stand out<g ref="char:EOLhyphen"/>lawed from the time of their Conviction, during Life; and if they cannot pay their respective Fines, the Merchant shall pay it for them. Let the Informers be secure of Pardon, Protection, and Reward, and it will be impossible for any Man to ex<g ref="char:EOLhyphen"/>port Wooll, for they employ 20 or 30 Men to ship it by Night, and he that employs them must ever after be a Slave to every Man he employs, and if he gives them not at any time what they ask, they presently inform, and get 1000 or 1500<hi>l.</hi> so that if this be but enacted, the Money will never come to be paid, for no Man will ever attempt to export Wooll again; there may be also with it a Pardon for all past Offences.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:153497:7"/>
+               <head>Another way to hinder Exportation of Wooll from <hi>Ireland.</hi>
+               </head>
+               <p>It is high Treason in <hi>Ireland</hi> to export any Wooll out of that Kingdom, so that we take Licences from the Lord Deputy, which are granted only for a thousand Stone, and run after this manner, <hi>viz. Suffer</hi> A. B. <hi>to export a thousand Stone of Wooll, on his giving Security to land it in</hi> England, <hi>and paying</hi> 4 d. ½ <hi>the Stone Cu<g ref="char:EOLhyphen"/>stom.</hi> To discharge this Bond and Secu<g ref="char:EOLhyphen"/>rity, we bring a Return from the Custom<g ref="char:EOLhyphen"/>house in <hi>England,</hi> that such Wooll was landed, such a Day, out of such a Vessel; and for want of this Return in 6 Months, the Bond is forfeited</p>
+               <p>The Forfeitures of these Bonds were given by King <hi>Charles</hi> the Second, to <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> by Patent, bearing date</p>
+               <p>I have been informed by a worthy Gentleman at <hi>Kells,</hi> that the Merchants who have ship'd Wooll, and given Secu<g ref="char:EOLhyphen"/>rity to land it in <hi>England,</hi> have, in a pub<g ref="char:EOLhyphen"/>lick Coffee-house, agreed for the Forfei<g ref="char:EOLhyphen"/>tures of their Bonds before the Vessels have sailed.</p>
+               <p>This Information is likely to be true, for that Wooll is often Exported and the Bonds seldom prosecuted, is most appa<g ref="char:EOLhyphen"/>rent.</p>
+               <pb n="12" facs="tcp:153497:8"/>
+               <p> To prevent which mischief, the said Patent being prejudicial to the Nation in general, ought to be declared void by the Exceptions therein, or else the Paten<g ref="char:EOLhyphen"/>tee should give Security for due Prosecu<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Also the Collector or some other Offi<g ref="char:EOLhyphen"/>cer of such Port as any Vessel shall enter Wooll in for <hi>England</hi> should be required immediately upon such Entry, to advise the Officers of the Port, for which the Wooll is entered, of the Name and Bur<g ref="char:EOLhyphen"/>then of the Vessel, the Name and Habita<g ref="char:EOLhyphen"/>tion of the Master, the Names and Num<g ref="char:EOLhyphen"/>ber of his Men and Boys, the Marks and Numbers of the Bags of Wooll, and the Number of Stone which he hath enter'd; so that if he come not to the said Port in a reasonable time, the Officers may look after him, and when found, if the Wooll be not on board him, or Certificate, that by Stress of Weather, he hath landed it in some other Port of <hi>England,</hi> his Vessel may be seized and condemned to the Of<g ref="char:EOLhyphen"/>ficer; and the Seal of the Custom-house where he took in the Wooll, with all the chief Officers hands to it, may be allow<g ref="char:EOLhyphen"/>ed to be evidence against him, for the Officers cannot come <hi>viva voce,</hi> to leave their places to condemn him; he may al<g ref="char:EOLhyphen"/>so
+<pb n="13" facs="tcp:153497:8"/>be liable to a hundred Pound Forfei<g ref="char:EOLhyphen"/>ture, and be out-lawed during Life.</p>
+            </div>
+            <div type="part">
+               <head>To ballance the Trade with <hi>Ireland,</hi> that <hi>Ireland</hi> may Trade without Prohibition and not injure <hi>England.</hi>
+               </head>
+               <head type="sub">How much in the Pound Weight Cloths may be made and afforded cheaper in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> than in <hi>England,</hi> if they had our skill and settlement of Trade.</head>
+               <p>Every Stone of Wooll containing six<g ref="char:EOLhyphen"/>teen Pound Imported from <hi>Ireland</hi> to <hi>England,</hi> pays for Licence 1 <hi>s.</hi> 4 <hi>d.</hi> for Duty 4 <hi>d.</hi> ½, for Freight 4 <hi>d.</hi> ½, Commissi<g ref="char:EOLhyphen"/>on 4 <hi>d.</hi> Bags 3 <hi>d.</hi> Carriage from <hi>Bitheford</hi> to <hi>Exon</hi> 4 <hi>d.</hi> in all 3 <hi>s.</hi> and the Merchant or Importor will usually get 1 <hi>s.</hi> the Stone by it, which is 4 <hi>s.</hi> and is 3 <hi>d.</hi> the Pound Weight; and there must be allowed a Pound and half of Wooll in the Fleece to make a Pound Weight of Cloth, which is 4 <hi>d.</hi> ½ on a Pound of Cloth. Then if I buy a hundred Pounds worth of Cloth in <hi>Ireland</hi> for 84 <hi>l.</hi> in <hi>England,</hi> I re<g ref="char:EOLhyphen"/>ceive 100 <hi>l.</hi> in <hi>Ireland,</hi> which is 4 <hi>d.</hi> ½ more on a Pound of Cloth, so that had they our experience in Trade, we could buy Bays and ordinary Goods 9 <hi>d.</hi> on a Pound weight cheaper in <hi>Ireland</hi> than in <hi>England;</hi> but if the best Maker
+<pb n="14" facs="tcp:153497:9"/>in <hi>England</hi> did set up Trade in <hi>Ireland,</hi> he could not work up his Cloth so cheap, nor so well in <hi>Ireland</hi> as in <hi>England</hi> by 3 <hi>d.</hi> the Pound, for if he drives a consi<g ref="char:EOLhyphen"/>derable Trade, he must employ a thou<g ref="char:EOLhyphen"/>sand Hands, and they are not so enured to Trade as in <hi>England,</hi> though they grow daily; for the planting of a Trade, is as the planting of an Orchard, which is more profitable to the Son, than to the Father that planted it.</p>
+               <p>It may be modestly accounted, that if six Pence the Pound weight be put upon the Manufacture of <hi>Ireland</hi> over and above what is or shall be in <hi>England;</hi> they might also Trade with little or no Prejudice to <hi>England,</hi> which Duty might be appro<g ref="char:EOLhyphen"/>priated to <hi>England</hi> for Support of the Government; and this I humbly con<g ref="char:EOLhyphen"/>ceive will prove no Prohibition.</p>
+            </div>
+            <div type="part">
+               <head>The Case of the City of <hi>Exon,</hi> in respect of the Prohibition of <hi>Irish</hi> Wool from that Port.</head>
+               <p>First, The Trade of that City depends mainly upon <hi>Irish</hi> Wooll. All the Wooll thereabouts will not maintain the Trade one Month, and they can land the <hi>Irish</hi> Wooll no nearer than <hi>Bitheford</hi> or <hi>Mine<g ref="char:EOLhyphen"/>head,</hi>
+                  <pb n="15" facs="tcp:153497:9"/>the nearest of which is 30 Miles, and the ways are so bad, that no Horse can travel half the Winter.</p>
+               <p>Secondly, Since the Memory of Man, it hath not been proved, that any Man of that City did export Wooll, and as to others transporting it under pretence of bringing it about by Land for <hi>Exon;</hi> I hope the methods I have proposed will prevent, if not, why may not a Vessel bound for <hi>Bitheford</hi> or <hi>Minehead,</hi> after they are at Sea out of sight of Land, as well go for <hi>France,</hi> as they might if bound for <hi>Topsham?</hi>
+               </p>
+               <p>Thirdly, The City of <hi>Exon</hi> is a City of as fine Trade, as any City in <hi>England</hi> of its bigness, and this Prohibition was designed in favour to the City of <hi>Exon;</hi> but seeing it plainly appears, that, if con<g ref="char:EOLhyphen"/>tinued, will be the ruin of that City, it ought to be taken into the serious conside<g ref="char:EOLhyphen"/>ration of this Honourable House.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153497:10"/>
+            <pb facs="tcp:153497:10"/>
+            <pb facs="tcp:153497:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
